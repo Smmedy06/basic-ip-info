@@ -1,4 +1,18 @@
-# IP Information Tool
+# 🛰️ IP-INFORMATION-TOOL
+
+*Quickly Retrieve IP Address Details with an Intuitive Python GUI*
+
+![last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat&logo=git)
+![python](https://img.shields.io/badge/python-100%25-blue?logo=python)
+![languages](https://img.shields.io/badge/languages-1-informational)
+
+---
+
+## 🧰 Built With:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=flat&logo=python&logoColor=black)
+![Requests](https://img.shields.io/badge/-Requests-20232a?style=flat&logo=python&logoColor=white)
 
 This is a simple desktop application built with Python and Tkinter that allows users to retrieve information about any public IP address. The tool uses the [ip-api.com](http://ip-api.com/) API to fetch geolocation and ISP details for the given IP address.
 
